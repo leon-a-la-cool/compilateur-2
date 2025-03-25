@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# test -compilateur --parse_only
+# ./test compilateur --parse_only
 
 compilateur=$1
 
